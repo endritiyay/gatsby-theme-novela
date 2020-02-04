@@ -61,7 +61,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/components/images/eta.png`,
+        icon: `src/components/Image/eta.png`,
       },
     },
   ],
